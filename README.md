@@ -1,4 +1,4 @@
-# Capture the Flag Arena
+# Capture the Flag Project
 
 This repository contains a Python based project built around interactive state management, agent coordination, visual feedback, and organized data handling. The architecture supports multiple components working in tandem, demonstrated in this repository through a Capture the Flag inspired simulation.
 
